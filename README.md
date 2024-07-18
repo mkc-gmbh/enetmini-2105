@@ -52,9 +52,10 @@ Recommended settings for the 3D printer:
 
 ## Files
 
-- [base.stl](housing/base.stl)
-- [cover.stl](housing/cover.stl)
-- [sensor_cover.stl](housing/sensor_cover.stl)
+- [Housing base](housing/base.stl)
+- [Housing cover](housing/cover.stl)
+- [Sensor cover](housing/sensor_cover.stl)
+- [PCB 3D Stepmodel](board.step)
 
 ## Release Notes
 
