@@ -51,11 +51,14 @@ Recommended settings for the 3D printer:
 3. **Final Assembly**: Connect the individual parts of the case and tighten the screws.
 
 ## Files
-
-- [Housing base](housing/base.stl)
-- [Housing cover](housing/cover.stl)
-- [Sensor cover](housing/sensor_cover.stl)
-- [PCB 3D Stepmodel](board.step)
+- **Housing base**
+  - [CAD 3D](housing/base.stl) | [Preview](housing/base.png)
+- **Housing cover**
+  - [CAD 3D](housing/cover.stl) | [Previev 1](housing/cover1.png) | [Previev 2](housing/cover2.png)
+- **Sensor cover**
+  - [CAD 3D](housing/sensor_cover.stl) | [Preview](housing/sensor_cover.png)
+- **PCB**
+  - [Stepmodel 3D](board.step)
 
 ## Release Notes
 
